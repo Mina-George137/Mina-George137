@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **minageorge137@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QAvTdyeFIf66S8_ChMFMYF6MEMCBrlbW/view?usp=sharing](https://drive.google.com/file/d/1QAvTdyeFIf66S8_ChMFMYF6MEMCBrlbW/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mina-george-2aa006204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mina-george-2aa006204" height="30" width="40" /></a>
@@ -18,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-george137&show_icons=true&locale=en&layout=compact" alt="mina-george137" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-george137&show_icons=true&locale=en" alt="mina-george137" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-george137&" alt="mina-george137" /></p>
