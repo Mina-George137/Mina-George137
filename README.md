@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mina George</h1>
 <h3 align="center">A passionate Software Engineer to be</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mina-george137" alt="mina-george137" /></a> </p>
-
 - 🌱 I’m currently learning **Computer and Communication Engineering**
 
 - 📫 How to reach me **minageorge137@gmail.com**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-george137&show_icons=true&locale=en&layout=compact" alt="mina-george137" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-george137&show_icons=true&locale=en" alt="mina-george137" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-george137&" alt="mina-george137" /></p>
