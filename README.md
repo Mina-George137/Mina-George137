@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **minageorge137@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QAvTdyeFIf66S8_ChMFMYF6MEMCBrlbW/view?usp=sharing](https://drive.google.com/file/d/1QAvTdyeFIf66S8_ChMFMYF6MEMCBrlbW/view?usp=sharing)
+- 📄 Know about my experiences [my resumee](https://drive.google.com/file/d/15wss_jSozEWAGHOioXs2Fc0-cm4YUBqm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
