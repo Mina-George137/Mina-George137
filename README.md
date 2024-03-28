@@ -13,10 +13,6 @@
 
 - 💬 Ask me about **Node.js, MongoDB, Flutter**
 
-- 📫 How to reach me **minageorge137@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13dD5k2CuPMrnf_csrn4cDbdcGy2hEvTL/view?usp=sharing](https://drive.google.com/file/d/13dD5k2CuPMrnf_csrn4cDbdcGy2hEvTL/view?usp=sharing)
-
 - ⚡ Fun fact **I love Sicilian Defense when I play with black in chess**
 
 <h3 align="left">Connect with me:</h3>
