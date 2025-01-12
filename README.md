@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mina-george137" alt="mina-george137" /></a> </p>
 
-- 🔭 I’m currently working on **my graduation project**
-
-- 🌱 I’m currently learning **AI/ML**
+- 🔭 I’m currently working at **Ejada Systems** as **Software Engineer, Specialized in Microsoft Dynamics 365 CRM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mina-George137](https://github.com/Mina-George137)
 
-- 💬 Ask me about **Node.js, MongoDB, Flutter**
+- 💬 Ask me about **Node.js, MongoDB, Flutte, CRM**
 
 - ⚡ Fun fact **I love Sicilian Defense when I play with black in chess**
 
