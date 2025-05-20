@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mina-george137&label=Profile%20views&color=0e75b6&style=flat" alt="mina-george137" /> </p>
 
-/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mina-george137" alt="mina-george137" /></a> </p>*/
-
 - 🔭 I’m currently working at **Ejada Systems** as **Software Engineer, Specialized in Microsoft Dynamics 365 CRM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mina-George137](https://github.com/Mina-George137)
