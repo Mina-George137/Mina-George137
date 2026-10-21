@@ -7,7 +7,7 @@
 
 - 🌱 My recent work includes full-stack engineering, cloud infrastructure, and CI/CD automation across various enterprise and B2B platforms.
 
-- 👨‍💻 I specialize in **TypeScript, React Native, Node.js, Java (Spring Boot), Python**, and **Cloud DevOps (AWS, Docker, GitHub Actions)**.
+- 👨‍💻 I specialize in **TypeScript, React Native, Node.js, Java (Spring Boot), Python**, and **Cloud DevOps (AWS, Docker, Kubernetes, GitHub Actions)**.
 
 - 💬 Ask me about **Full-Stack Engineering, Database Security, Cloud Architecture, and Agile Development**.
 
@@ -30,11 +30,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://erpnext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/erpnext/0089FF" alt="erpnext" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-george137&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="mina-george137 top languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-george137&show_icons=true&locale=en&layout=compact&count_private=true&cache_seconds=3600" alt="mina-george137 top languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-george137&show_icons=true&locale=en&cache_seconds=3600" alt="mina-george137 stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-george137&show_icons=true&locale=en&count_private=true&cache_seconds=3600" alt="mina-george137 stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-george137&cache_seconds=3600" alt="mina-george137 streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-george137&count_private=true&cache_seconds=3600" alt="mina-george137 streak" /></p>
