@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mina Wissa</h1>
 <h3 align="center">Mid-Level Software Engineer from Alexandria, Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mina-george137&label=Profile%20views&color=0e75b6&style=flat" alt="mina-george137" /> </p>
 
 - 🔭 I’m currently working at **Yomicepa** as a **Mid-Level Software Engineer**.
 
